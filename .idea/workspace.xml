@@ -4,14 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa4d0b82-69f7-4fe1-9bba-a0af8885d61b" name="Changes" comment="" />
+    <list default="true" id="fa4d0b82-69f7-4fe1-9bba-a0af8885d61b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/latest-enlarged-prostate-treatment/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/latest-enlarged-prostate-treatment/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="61" />
+    <option name="cachedIndexableFilesCount" value="65" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="Git.Settings">
@@ -71,7 +74,7 @@
       <workItem from="1768426194907" duration="43000" />
       <workItem from="1768426481526" duration="128000" />
       <workItem from="1768426721437" duration="1186000" />
-      <workItem from="1768428590293" duration="2437000" />
+      <workItem from="1768428590293" duration="3733000" />
     </task>
     <servers />
   </component>
