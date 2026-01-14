@@ -20,8 +20,12 @@
           "value": "strict-origin-when-cross-origin"
         },
         {
+          "key": "Access-Control-Allow-Origin",
+          "value": "https://bodyhealthportal.vercel.app"
+        },
+        {
           "key": "Content-Security-Policy",
-          "value": "default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com data:; img-src 'self' data:; connect-src 'self';"
+          "value": "default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval'; style-src 'self' 'unsafe-inline'; font-src 'self' data:; img-src 'self' data:; connect-src 'self'; frame-ancestors 'none';"
         },
         {
           "key": "Strict-Transport-Security",
