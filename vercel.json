@@ -42,6 +42,10 @@
     {
       "source": "/latest-enlarged-prostate-treatment",
       "destination": "/latest-enlarged-prostate-treatment/index.html"
+    },
+    {
+      "source": "/blood-sugar",
+      "destination": "/blood-sugar/index.html"
     }
   ]
 }
